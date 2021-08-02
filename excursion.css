@@ -1,4 +1,47 @@
 * {
-  font-family: Helvetica;
-  font-color: red;
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+.title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+#tagline {
+  color: aquamarine;
+  font-size: 16px
+}
+
+.videophone {
+}
+
+.travelguide h2 {
+  font-size: 42px;
+  color: white;
+  font-weight: normal;
+}
+
+.travelguide p {
+  font-size: 21px;
+  color: gray;
+}
+
+.camp {
+}
+
+.footerimage h2 {
+  color: white;
+  font-weight: normal;
+}
+
+.footerimage p {
+  color: aquamarine;
+}
+
+.copyright p {
+  text-align: right;
+  color: gray;
 }
